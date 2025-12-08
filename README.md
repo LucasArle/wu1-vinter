@@ -11,6 +11,7 @@
 6. Publicera med pages
 
 Visa allt du har lärt dig hittils och lite till i samma veva som du skriver en fantastisk julhäslning till någon, något eller några.
+Du kan använda query parametrar url?title=Tjena&message=hej
 Dela med dig av glädjen!
 
 Inlämning innan jul.
